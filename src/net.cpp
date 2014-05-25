@@ -1,5 +1,5 @@
 // Copyright (c) 2009-2010 Satoshi Nakamoto
-// Copyright (c) 2009-2012 The Bitcoin developers
+// Copyright (c) 2009-2014 The Bitcoin developers
 // Distributed under the MIT/X11 software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
@@ -1203,7 +1203,7 @@ static const char *strMainNetDNSSeed[][2] = {
 static const char *strTestNetDNSSeed[][2] = {
     {"litecointools.com", "testnet-seed.litecointools.com"},
     {"xurious.com", "testnet-seed.ltc.xurious.com"},
-    {"weminemnc.com", "testnet-seed.weminemnc.com"},
+    {"wemine-testnet.com", "dnsseed.wemine-testnet.com"},
     {NULL, NULL}
 };
 
